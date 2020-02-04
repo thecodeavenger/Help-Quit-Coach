@@ -8,8 +8,14 @@ body, html {
 .bgimg-1 {
   background-position: center;
   background-size: cover;
-  background-image: url("Image/photo-of-sky.jpg");
+  background-image: url("Images/photo-of-sky.jpg");
   min-height: 100%;
+}
+
+.bgimg {
+  background-position: center;
+  background-size: cover;
+  height: 100%;
 }
 
 .w3-bar .w3-button {
